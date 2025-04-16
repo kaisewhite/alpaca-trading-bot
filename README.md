@@ -1,6 +1,6 @@
-# 🤖 RSI-Based TSLA Trading Bot
+# 🤖 RSI-Based Trading Bot
 
-An automated trading bot that leverages RSI (Relative Strength Index) and ChatGPT's AI capabilities to make data-driven trading decisions for Tesla (TSLA) stock.
+An automated trading bot that leverages RSI (Relative Strength Index) and ChatGPT's AI capabilities to make data-driven trading decisions.
 
 ## 🔄 How It Works
 
